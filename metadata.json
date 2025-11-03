@@ -1,0 +1,5 @@
+{
+  "name": "Violin Studio Dashboard",
+  "description": "A web application for violin teachers to keep track of their lesson schedule and monthly income summary. It provides a clear, day-by-day breakdown of lessons and calculates daily and monthly earnings.",
+  "requestFramePermissions": []
+}
